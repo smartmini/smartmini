@@ -1,0 +1,1 @@
+var $jQuery=jQuery.noConflict();$jQuery(document).ready(function(){if($jQuery('#categorydiv').length>0){$jQuery("#titlediv h3 label").html("Address");$jQuery(".postarea h3 label").html("Property Description");}});
